@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c1148c22039b0740aeef82bfdc46d36, type: 3}
+  m_Name: 1xBlue + 3xGreen + 1xRed
+  m_EditorClassIdentifier: 
+  resultColor:
+    name: 1xBlue + 3xGreen + 1xRed
+    color: {r: 0.2, g: 0.6, b: 0.2, a: 1}
+    combinationMult: 5
+  inputColors:
+  - Blue
+  - Green
+  - Green
+  - Green
+  - Red
